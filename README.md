@@ -1,5 +1,7 @@
 # AI-Fashion-Assistants 
-The project "AI-Fashion-Assistants" aims to utilize AI systems for analyzing user preferences and providing clothing suggestions aligned with their style.
+AI-Fashion-Assistants: Tailoring style with AI! Dive into personalized clothing recommendations effortlessly.
+
+## Demo
 ![Demo](./demo.gif)
 
 
